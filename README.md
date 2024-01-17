@@ -5,14 +5,15 @@ Hello and welcome to Purdue AIM! This is the repo containing the introductory as
 Here is your assignment:
 
 1. Decide whether you are using Google Colab or your local machine. Google Colab has free GPUs for those who don't have access to Nvidia GPUs on their local machine.
-2. Fork this repository into a new private repository under your GitHub account. Make sure no one but instructors/student leaders can see it; showing it to anyone else is academic dishonesty!
-3. Make a new branch titled "changes".
-4. Clone this branch to your machine or Colab, whichever you are using.
-5. There are 4 assignments to complete in the assignments folder (3 of which were pulled from HuggingFace and one which was primarily written by Tim). Complete these assignments to the best of your ability.
-6. Commit and push any changes to new or existing files to the branch titled "changes".
-7. Pull request and merge your changes into the master branch.
-8. Create, add, commit, and push a .txt file called "Collaborators.txt" stating who you worked with and what outside resources you used to complete this assignment (other than student leaders/TAs/professors).
-9. Share your repository link on Brightspace to finish submission.
+2. Make a new private repository under your GitHub account to contain the files for this repository. Make sure no one but instructors/student leaders can see it; showing it to anyone else is academic dishonesty!
+3. Clone this branch to your machine or Colab, whichever you are using.
+4. Download the files from this repository and put them in the folder of your repository.
+5. Make a new branch titled "changes" in the repository and check that branch out.
+6. There are 4 assignments to complete in the assignments folder (3 of which were pulled from HuggingFace and one which was primarily written by Tim). Complete these assignments to the best of your ability.
+7. Commit and push any changes to new or existing files to the branch titled "changes".
+8. Pull request and merge your changes into the master branch.
+9. Create, add, commit, and push a .txt file called "Collaborators.txt" stating who you worked with and what outside resources you used to complete this assignment (other than student leaders/TAs/professors).
+10. Share your repository link on Brightspace to finish submission.
 
 In summary, when submitting, you should have the 4 notebooks in "Assignments" done, the two MIDI files from the MIDI synth assignment + Collaborators.txt file included, and a Git history of merging the "changes" branch in.
 
