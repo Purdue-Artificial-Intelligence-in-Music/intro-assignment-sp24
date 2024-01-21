@@ -12,7 +12,7 @@ Here is your assignment:
 6. There are 4 assignments to complete in the assignments folder (3 of which were pulled from HuggingFace and one which was primarily written by Tim). Complete these assignments to the best of your ability.
 7. Commit and push any changes to new or existing files to the branch titled "changes".
 8. Pull request and merge your changes into the master branch.
-Alternatively: if you did all your work on the main branch, you can fulfill the requirements of steps 5-8 by making a new branch, checking it out, pushing a file of any kind to the branch, and PR-ing and merging this branch into main.
+Alternatively: if you did all your work on the main branch, you can fulfill the requirements of steps 5,7,8 by making a new branch, checking it out, pushing a file of any kind to the branch, and PR-ing and merging this branch into main.
 9. Create, add, commit, and push a .txt file called "Collaborators.txt" stating who you worked with and what outside resources you used to complete this assignment (other than student leaders/TAs/professors).
 10. Invite PurdueAIMGrader as a collaborator on GitHub and share your repository link on Teams to finish submission.
 
