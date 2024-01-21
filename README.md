@@ -13,7 +13,7 @@ Here is your assignment:
 7. Commit and push any changes to new or existing files to the branch titled "changes".
 8. Pull request and merge your changes into the master branch.
 9. Create, add, commit, and push a .txt file called "Collaborators.txt" stating who you worked with and what outside resources you used to complete this assignment (other than student leaders/TAs/professors).
-10. Share your repository link on Brightspace to finish submission.
+10. Invite PurdueAIMGrader as a collaborator on GitHub and share your repository link on Teams to finish submission.
 
 In summary, when submitting, you should have the 4 notebooks in "Assignments" done, the two MIDI files from the MIDI synth assignment + Collaborators.txt file included, and a Git history of merging the "changes" branch in.
 
