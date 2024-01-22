@@ -14,7 +14,7 @@ Here is your assignment:
 8. Pull request and merge your changes into the master branch.
 Alternatively: if you did all your work on the main branch, you can fulfill the requirements of steps 5,7,8 by making a new branch, checking it out, pushing a file of any kind to the branch, and PR-ing and merging this branch into main.
 9. Create, add, commit, and push a .txt file called "Collaborators.txt" stating who you worked with and what outside resources you used to complete this assignment (other than student leaders/TAs/professors).
-10. Invite PurdueAIMGrader as a collaborator on GitHub and share your repository link on Teams to finish submission.
+10. Invite PurdueAIMGrader-2 as a collaborator on GitHub and share your repository link on Teams to finish submission.
 
 In summary, when submitting, you should have the 4 notebooks in "Assignments" done, the two MIDI files from the MIDI synth assignment + Collaborators.txt file included, and a Git history of merging the "changes" branch in.
 
